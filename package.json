@@ -22,7 +22,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^12.4.7",
     "lucide-react": "^0.475.0",
-    "next": "15.1.7",
+    "next": "^15.2.4",
     "openai": "^4.85.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
